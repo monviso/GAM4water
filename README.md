@@ -1,1 +1,4 @@
 # GAM4water
+GAM4water is a R language- based tool to classify in wetted and non-wetted areas remote sensed images, based on pixel radiometric property. The main characteristics of GAM4water are to (I) its simplicity of implementation that request only basic R programming skills; (II) ingest any typology of remote sensed data on which base the classification, regardless of reference system, resolution, extent; (III) being highly customizable by advanced users; (IV) produce high accuracy classification, comparable with more complex AI-based algorithm; (V) produce a rich output set that include binary raster, shapefiles of wetted areas, classification performance summary and several optional outputs. GAM4water classification algorithm is built around a Generalized Additive Model that we prove here to be highly efficient in biary classification tasks.
+
+Refer to the wiki for tutorial
